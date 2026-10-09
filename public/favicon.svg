@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <!-- Dark Rounded Tile as shown in "Icon · app tile and favicon" -->
+  <rect width="64" height="64" rx="15" fill="#0B1120"/>
+  <!-- InfoPro Shield Left -->
+  <path d="M32 13C24.5 15.4 17.5 17.4 12.5 19.8C12.5 38 16.5 52.5 32 60V13Z" fill="#2563EB"/>
+  <!-- InfoPro Shield Right -->
+  <path d="M32 13C39.5 15.4 46.5 17.4 51.5 19.8C51.5 38 47.5 52.5 32 60V13Z" fill="#1D4ED8"/>
+  <!-- Lowercase 'i' dot -->
+  <circle cx="32" cy="27" r="3.4" fill="#FFFFFF"/>
+  <!-- Lowercase 'i' stem -->
+  <rect x="29" y="34" width="6" height="15.5" rx="3" fill="#FFFFFF"/>
+</svg>
